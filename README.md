@@ -3,7 +3,8 @@
 A clean and interactive **Finance Dashboard UI** built using **React, Tailwind CSS, and Zustand** to help users track income, expenses, and financial insights.
 
 ---
-
+Deployment Link: https://finance-dashboard-assignment-one.vercel.app/ 
+Github Link: https://github.com/JyosnaBogari/Finance-Dashboard-Assignment/
 ## 🚀 Features
 
 ### 📊 Dashboard Overview
